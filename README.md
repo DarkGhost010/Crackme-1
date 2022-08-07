@@ -19,3 +19,6 @@ This is just an easy one!! Stay tuned for the more challenging crackme challenge
 - C++
 - Python
 - C#
+
+
+Important --> run this file in your safe environment <---
