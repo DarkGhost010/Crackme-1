@@ -6,7 +6,7 @@ You should have to have at least basic understanding of reverse engineering.
 
 Being able to solve this challenge, you ought to put the valid key to be accessed.
 
-I have as an hint .bin file take a took and try to understand it.
+ .bin file is given to take a took and analyze it, try to understand what happens.
 
 
 resources: 
